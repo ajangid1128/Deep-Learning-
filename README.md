@@ -3,7 +3,7 @@
 * Hand Digit Recognition
 1) Flatten Image into a column vector (reshape)
 2) Applied Artificial Neural Network with only input and output in network 
-3) Construct Artificial Neural Network from both scratch & using tensorflow and keras
+3) Construct Artificial Neural Network from both scratch (Hypothesis Function -> Loss/Cost -> Gradients) & using tensorflow and keras
  
 * Customer Churn Prediction
 1) Data Cleaning -- convert categorical features into binary representation, removal of unwanted columns, one-hot encoding
